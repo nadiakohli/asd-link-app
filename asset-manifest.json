@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/asd-link-app/static/css/main.28389d13.css",
+    "main.js": "/asd-link-app/static/js/main.86533102.js",
+    "static/js/378.37c3710d.chunk.js": "/asd-link-app/static/js/378.37c3710d.chunk.js",
+    "static/js/451.15427d46.chunk.js": "/asd-link-app/static/js/451.15427d46.chunk.js",
+    "static/js/12.356eb3de.chunk.js": "/asd-link-app/static/js/12.356eb3de.chunk.js",
+    "static/js/897.d7580a53.chunk.js": "/asd-link-app/static/js/897.d7580a53.chunk.js",
+    "static/js/569.188800c9.chunk.js": "/asd-link-app/static/js/569.188800c9.chunk.js",
+    "static/media/Inter-Medium.ttf": "/asd-link-app/static/media/Inter-Medium.68aa71f4a2b837db5ad3.ttf",
+    "static/media/cuteCat.webp": "/asd-link-app/static/media/cuteCat.d84da7b123eb41d70623.webp",
+    "static/media/wavingHand.webp": "/asd-link-app/static/media/wavingHand.aed9ad22a93d4272db3f.webp",
+    "static/media/winkEmoji.webp": "/asd-link-app/static/media/winkEmoji.6ad35b8076cf7b8fb636.webp",
+    "static/media/blurredCircles.webp": "/asd-link-app/static/media/blurredCircles.4cfb92f9f6772562d6f8.webp",
+    "static/media/logo.webp": "/asd-link-app/static/media/logo.61314f5210e7267ee9cb.webp",
+    "index.html": "/asd-link-app/index.html",
+    "static/media/copySolid.svg": "/asd-link-app/static/media/copySolid.95f7889612f6e2623ebe3a7900c1be0f.svg",
+    "main.28389d13.css.map": "/asd-link-app/static/css/main.28389d13.css.map",
+    "main.86533102.js.map": "/asd-link-app/static/js/main.86533102.js.map",
+    "378.37c3710d.chunk.js.map": "/asd-link-app/static/js/378.37c3710d.chunk.js.map",
+    "451.15427d46.chunk.js.map": "/asd-link-app/static/js/451.15427d46.chunk.js.map",
+    "12.356eb3de.chunk.js.map": "/asd-link-app/static/js/12.356eb3de.chunk.js.map",
+    "897.d7580a53.chunk.js.map": "/asd-link-app/static/js/897.d7580a53.chunk.js.map",
+    "569.188800c9.chunk.js.map": "/asd-link-app/static/js/569.188800c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28389d13.css",
+    "static/js/main.86533102.js"
+  ]
+}
