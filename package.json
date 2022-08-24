@@ -1,0 +1,41 @@
+{
+  "name": "asd-link-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "proxy": "http://localhost:8080",
+  "scripts": {
+    "lint": "eslint ui && eslint api",
+    "lint:fix": "eslint ui --fix && eslint api --fix",
+    "client": "cd ui && npm start",
+    "server": "cd api && npm start",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadiakohli/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadiakohli/test/issues"
+  },
+  "homepage": "https://github.com/nadiakohli/test#readme",
+  "devDependencies": {
+    "concurrently": "^7.3.0",
+    "editorconfig-checker": "^4.0.2",
+    "eslint": "^8.22.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3"
+  },
+  "husky": {
+    "pre-commit": "lint-staged"
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "npm run lint",
+      "git add"
+    ]
+  }
+}
